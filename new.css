@@ -1,0 +1,94 @@
+body{
+    margin:0;
+    background-color:#DDF7E3;
+    background-attachment: fixed;
+    text-align: center;
+}
+.name{
+    padding: 10px;
+    margin: 50px auto 10px auto;
+    font-size: large;
+    font-style:italic;
+    color: darkgreen;
+    
+}
+.cloud1{
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    right: 40px;
+    top: 30px;
+}
+.cloud2{
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left:40px;
+    top: 80px;
+    padding: 20px;
+}
+.mountain1{
+    position: relative;
+    top:40px;
+}
+.photo12{
+    margin: 50px auto 30px auto;
+    padding: 30px;
+}
+.hellotag{
+    color: blue;
+
+}
+.web{
+    font-size:larger;
+    padding: 5px auto 15px auto ;
+}
+.line{
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    border-color:grey;
+    width: 30%;
+
+}
+.my{
+    font-size: xx-large;
+    color: coral;
+    padding-top: 50px;
+
+}
+.imgcod{
+    position: absolute;
+    left:25%;
+    height: 150px;
+    width: 150px;
+}
+.line2{
+    position: relative;
+    left:80px;
+    padding: 40px;
+    font-size: large;
+    color:violet;
+}
+.get{
+    padding: 50px;
+    font-size: xx-large;
+    color: blue;
+}
+.contact{
+    background-color: chocolate;
+   height: 150px;
+   width: 100%;
+}
+.link1{
+    padding: 30px;
+    border: 20px;
+    font-size: larger;
+}
+.link2{
+    padding:30px;
+    border: 20px;
+    font-size: larger;
+}
+
+
